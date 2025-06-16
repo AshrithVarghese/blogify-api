@@ -1,0 +1,21 @@
+📦 API Features:
+
+    👤 User
+
+    -- POST /api/user/register – Register new user
+
+    -- POST /api/user/login – Login with JWT
+
+    -- GET /api/user/profile – Get current user info (Protected)
+
+    📝 Posts
+
+    -- GET /api/posts/all – Get all blog posts
+
+    -- GET /api/posts/:id – Get one post
+
+    -- POST /api/posts/create – Create a new post (Protected)
+
+    -- PUT /api/posts/:id – Update post (Protected)
+
+    -- DELETE /api/posts/:id – Delete post (Protected)
