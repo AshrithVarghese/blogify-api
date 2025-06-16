@@ -77,7 +77,7 @@ backend/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/blogify.git
+git clone https://github.com/AshrithVarghese/blogify-api.git
 cd blogify
 ```
 
@@ -98,7 +98,7 @@ PORT=5000
 ### 4. Run the server
 
 ```bash
-npm run dev
+npm start
 ```
 
 ### 🔐 Auth Header Example
